@@ -1,14 +1,14 @@
-# js-lab-126
-### Lab126 Array: array result12
+# js-lab-127
+### Lab127 Array: array result13
 ให้สร้าง array result ให้ได้ผลลัพธ์ตามเงื่อนไขที่กำหนด โดยใช้ arr.filter
 
 ```JavaScript
 const array = [
-  { name: 'Ben', age: 14 },
-  { name: 'Phil', age: 18 },
-  { name: 'John', age: 32 },
-  { name: 'Ann', age: 16 },
-  { name: 'Paul', age: 24 }
+  { id: 1, name: 'Pepsi' },
+  { id: 2, name: 'Mirinda' },
+  { id: 3, name: 'Coke' },
+  { id: 4, name: 'Fanta' },
+  { id: 5, name: 'Sprite' }
 ];
-// อายุไม่น้อยกว่า 18 
+// id ไม่เท่ากับ 4
 ```
